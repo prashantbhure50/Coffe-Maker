@@ -1,0 +1,6 @@
+C:\Users\prash\source\repos\CoffeMaker\CoffeMaker\bin\Debug\CoffeMaker.exe.config
+C:\Users\prash\source\repos\CoffeMaker\CoffeMaker\bin\Debug\CoffeMaker.exe
+C:\Users\prash\source\repos\CoffeMaker\CoffeMaker\bin\Debug\CoffeMaker.pdb
+C:\Users\prash\source\repos\CoffeMaker\CoffeMaker\obj\Debug\CoffeMaker.csproj.CoreCompileInputs.cache
+C:\Users\prash\source\repos\CoffeMaker\CoffeMaker\obj\Debug\CoffeMaker.exe
+C:\Users\prash\source\repos\CoffeMaker\CoffeMaker\obj\Debug\CoffeMaker.pdb
